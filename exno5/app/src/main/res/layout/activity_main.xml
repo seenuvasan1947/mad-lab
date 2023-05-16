@@ -31,5 +31,5 @@
         android:id="@+id/btnNotificationSemantic"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Notification Semantic Action" />
+        android:text="Exit" />
 </LinearLayout>
