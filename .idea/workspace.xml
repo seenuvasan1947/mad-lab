@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5904ecbd-ac73-4f08-97cb-f02f066ad256" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/exno11/app/src/main/java/com/example/exno11/FirstFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno11/app/src/main/java/com/example/exno11/SecondFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno11/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno11/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno11/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno2/app/src/main/java/com/example/exno2/FirstFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno2/app/src/main/java/com/example/exno2/SecondFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno2/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno2/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno2/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno3/app/src/main/java/com/example/exno3/FirstFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno3/app/src/main/java/com/example/exno3/SecondFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno3/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno3/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno3/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno4/app/src/main/java/com/example/exno4/FirstFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno4/app/src/main/java/com/example/exno4/SecondFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno4/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno4/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno4/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno5/app/src/main/java/com/example/exno5/FirstFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno5/app/src/main/java/com/example/exno5/SecondFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno5/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno5/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno5/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno6/app/src/main/java/com/example/exno6/FirstFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno6/app/src/main/java/com/example/exno6/SecondFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno6/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno6/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno6/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno7/app/src/main/java/com/example/exno7/FirstFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno7/app/src/main/java/com/example/exno7/SecondFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno7/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno7/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno7/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno8/app/src/main/java/com/example/exno8/FirstFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno8/app/src/main/java/com/example/exno8/SecondFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno8/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno8/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exno8/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expr1/app/src/main/java/com/example/expr1/FirstFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expr1/app/src/main/java/com/example/expr1/SecondFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expr1/app/src/main/res/layout/content_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expr1/app/src/main/res/layout/fragment_first.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/expr1/app/src/main/res/layout/fragment_second.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q2eVNGYxXkC5I6TWOdcDwfOaqH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5904ecbd-ac73-4f08-97cb-f02f066ad256" name="Changes" comment="" />
+      <created>1684556135637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684556135637</updated>
+    </task>
+    <servers />
+  </component>
+</project>
